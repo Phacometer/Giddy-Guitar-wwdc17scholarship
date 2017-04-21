@@ -5,3 +5,5 @@ This playground presents a guitar that you can strum by clicking on the lemon sl
 
 ### Screenshot
 ![screenshot 1](https://github.com/Phacometer/Giddy-Guitar-wwdc17scholarship/blob/master/screenshot1.png)
+
+Hope you enjoy it!
