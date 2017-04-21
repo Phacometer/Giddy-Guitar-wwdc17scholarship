@@ -1,2 +1,2 @@
-# Giddy-Guitar-wwdc17-scholarship-
+# Giddy Guitar
 This is the playground I submitted for the WWDC 2017 scholarship. Accepted!
